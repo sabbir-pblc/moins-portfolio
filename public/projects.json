@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "1111",
+    "name": "balsal1",
+    "title": "aro beshi balsal",
+    "image": "https://via.placeholder.com/300x400",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nesciunt ducimus iste quia repellendus quod assumenda dolores sequi? Esse voluptate atque minima dignissimos quibusdam eos fuga deserunt corporis cum iure.",
+    "link": "https://alyona-industries-ltd.web.app/"
+  },
+  {
+    "_id": "1122",
+    "name": "balsal2",
+    "title": "aro beshi balsal",
+    "image": "https://via.placeholder.com/300x400",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nesciunt ducimus iste quia repellendus quod assumenda dolores sequi? Esse voluptate atque minima dignissimos quibusdam eos fuga deserunt corporis cum iure.",
+    "link": "https://alyona-industries-ltd.web.app/"
+  },
+  {
+    "_id": "1133",
+    "name": "balsal3",
+    "title": "aro beshi balsal",
+    "image": "https://via.placeholder.com/300x400",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores nesciunt ducimus iste quia repellendus quod assumenda dolores sequi? Esse voluptate atque minima dignissimos quibusdam eos fuga deserunt corporis cum iure.",
+    "link": "https://alyona-industries-ltd.web.app/"
+  }
+]
