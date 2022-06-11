@@ -12,7 +12,7 @@ const Contact = () => {
     }).catch((err) => console.log(err))
   }
   return (
-    <motion.div className='lg:h-full w-4/5 md:w-3/5 xl:w-1/3 mx-auto pt-20 grid items-center' initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ ease: 'easeOut' }}>
+    <motion.div className=' lg:h-screen w-4/5 md:w-3/5 xl:w-1/3 mx-auto pt-20 grid items-center' initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ ease: 'easeOut' }}>
       <div>
         <h2 className='text-3xl font-bold'>Contact Me</h2>
         <form onSubmit={handleSubmit(onSubmit)}>

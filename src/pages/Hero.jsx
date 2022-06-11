@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 const Hero = () => {
   return (
     <motion.div className='h-full' initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ ease: 'easeOut' }}>
-      <div className='lg:w-3/5 mx-auto flex flex-col lg:flex-row items-center h-full gap-8 justify-center pt-20'>
+      <div className='lg:w-3/5 mx-auto flex flex-col lg:flex-row items-center lg:h-screen gap-8 justify-center pt-20'>
         <div>
           <img src="https://via.placeholder.com/200x200" alt='' className='rounded-full' />
         </div>
